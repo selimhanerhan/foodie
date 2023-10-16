@@ -1,2 +1,0 @@
-geocodio_key = "8b5982d2112ddeb68896fc8651dd55f5f9db5d8"
-yelp_key = "IqDkJgyLjVGBvvErRWUMp-nG5GGCYjazo6_FFP4um06I9KXZqpBufk0XvExa1u_YVG3MNGmmi74LxIo7WkuWYiIRMtm1DRN1aXPTAQ_KR3Tm3nWdc6zpEDE0orItZXYx"
